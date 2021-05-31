@@ -1,0 +1,10 @@
+<?php
+/*define('DB_HOST','localhost');
+define('DB_USER','root');
+define('DB_PASS','');
+define('DB_NAME','iglesiabd');
+*/
+define('DB_HOST','bdnvsdf2ozwpafbcqmwh-mysql.services.clever-cloud.com');
+define('DB_USER','uf7cj99s3syo3gx6');
+define('DB_PASS','ie5Y6TqH8F8pRlss6DY0');
+define('DB_NAME','bdnvsdf2ozwpafbcqmwh');
